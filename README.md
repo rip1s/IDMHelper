@@ -1,5 +1,5 @@
 # IDMHelper
-Make your IDM more powerful!
+Make your Internet Download Manager more powerful!
 
 Initially I was stuck at changing IDM's user-agent, I'm surprise that didn't find any options in IDM interface that I can do that (Correct me if I'm wrong), so I create a simple program to do this stuff.
 
@@ -26,3 +26,7 @@ Example:
 
         idmhelper.exe -u https://www.google.com/ -a "What ever ua" -c "my cookies" -f
 ```
+
+## Reference
+
+* http://www.internetdownloadmanager.com/support/idm_api.html
